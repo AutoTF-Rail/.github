@@ -14,5 +14,10 @@ At AutoTF, we believe in the power of technology to transform transportation. Ou
 **Get Involved**  
 Whether you’re a software developer, a data scientist, a student, or just someone passionate about the future of rail transport, there are many ways to contribute:
 - **Contribute to Existing Projects:** Check out our repositories to find projects that interest you. We welcome pull requests, bug reports, and suggestions for new features.
-- **Start Your Own Project:** If you have a great idea for a new application or improvement, start a new project under our organization and collaborate with the global community.
 - **Join the Discussion:** Participate in discussions and share your insights to help shape the future of AutoTF and autonomous rail technology.
+
+## Contributions
+
+Would you like to contribute to this project, or noticed something wrong?
+
+Feel free to contact us at [opensource@autotf.de](mailto:opensource@autotf.de)
