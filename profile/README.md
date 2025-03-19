@@ -18,6 +18,6 @@ Whether you’re a software developer, a data scientist, a student, or just some
 
 ## Contributions
 
-Would you like to contribute to this project, or noticed something wrong?
+Would you like to contribute to AutoTF, or noticed something wrong?
 
 Feel free to contact us at [opensource@autotf.de](mailto:opensource@autotf.de)
