@@ -16,6 +16,11 @@ Whether you’re a software developer, a data scientist, a student, or just some
 - **Contribute to Existing Projects:** Check out our repositories to find projects that interest you. We welcome pull requests, bug reports, and suggestions for new features.
 - **Join the Discussion:** Participate in discussions and share your insights to help shape the future of AutoTF and autonomous rail technology.
 
+## Status
+
+See our system status at [status.autotf.de](https://status.autotf.de)
+
+
 ## Contributions
 
 Would you like to contribute to AutoTF, or noticed something wrong?
