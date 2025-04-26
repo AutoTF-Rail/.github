@@ -19,6 +19,7 @@ Whether you’re a software developer, a data scientist, a student, or just some
 ## Status
 
 See our system status at [status.autotf.de](https://status.autotf.de)
+Manage your account at [server.autotf.de](https://server.autotf.de)
 
 
 ## Contributions
