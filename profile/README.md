@@ -1,4 +1,5 @@
 ## Welcome to AutoTF on GitHub!
+![renderFlirt3CloseFrontFullWide](https://github.com/user-attachments/assets/e251d266-9afa-4e3d-af24-6236b5c89d05)
 
 **About AutoTF**  
 AutoTF is an ambitious project aimed at revolutionizing the rail industry by introducing advanced, scalable, and cost-effective autonomous train technology. Our mission is to enhance the efficiency, safety, and reliability of train operations using innovative software solutions built on open-source principles.
